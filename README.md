@@ -25,4 +25,5 @@ r management
 
 **Outcome:**
 	•	Delivered a complete BA simulation project including documentation, visuals, and a strategic pitch. Demonstrated the use of AI tools in business analysis tasks and 			learned real-world BA deliverables in the e-commerce domain.
-			![Uploading app-online-store.gif…]()
+![app-online-store](https://github.com/user-attachments/assets/b1196b99-fdad-45b4-baf8-b9f3102472ea)
+
