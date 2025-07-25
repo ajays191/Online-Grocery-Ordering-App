@@ -1,7 +1,8 @@
 # Online-Grocery-Ordering-App
-**Project Title: ** Online Grocery Ordering App Role: Business Analyst Tools Used: ChatGPT, Canva, Copy.ai, Quillbot Domain: E-Commerce
-Overview:
-The goal of this project was to design a user-centric mobile app for ordering groceries online. The platform targeted busy customers who prefer doorstep delivery of essential items like fruits, vegetables, snacks, and packaged foods.
+**Project Title: **
+	•	Online Grocery Ordering App Role: Business Analyst Tools Used: ChatGPT, Canva, Copy.ai, Quillbot Domain: E-Commerce
+**Overview:**
+	•	The goal of this project was to design a user-centric mobile app for ordering groceries online. The platform targeted busy customers who prefer doorstep delivery of 			essential items like fruits, vegetables, snacks, and packaged foods.
 
 **Responsibilities:**
 	•	Conducted requirement elicitation from a fictional client scenario.
@@ -18,8 +19,10 @@ The goal of this project was to design a user-centric mobile app for ordering gr
 	•	Cart management and checkout process
 	•	Delivery time selection
 	•	Order tracking system
-	•	Admin dashboard for product and order management
+	•	Admin dashboard for product and orde
+r management
 	•	Payment integration (UPI, Wallet, Cards)
 
-Outcome:
-Delivered a complete BA simulation project including documentation, visuals, and a strategic pitch. Demonstrated the use of AI tools in business analysis tasks and learned real-world BA deliverables in the e-commerce domain.
+**Outcome:**
+	•	Delivered a complete BA simulation project including documentation, visuals, and a strategic pitch. Demonstrated the use of AI tools in business analysis tasks and 			learned real-world BA deliverables in the e-commerce domain.
+			![Uploading app-online-store.gif…]()
